@@ -15,4 +15,4 @@ Symlinking can work for folders as well as files. The one trick is that the firs
 
 This process could also be automated. See [this reddit thread](https://www.reddit.com/r/vim/comments/b5aeae/question_about_symbolic_link_to_dotfiles/) for an example of an install script that could be used.
 
-The files in the root directory and in .config should be restored the packages are reinstalled. The exports (iTerm2 and IntelliJ settings) can be restored at any point.
+The files in the root directory and in .config should be restored before the packages are reinstalled. The exports (iTerm2 and IntelliJ settings) can be restored at any point.
