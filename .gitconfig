@@ -1,0 +1,14 @@
+[core]
+	excludesfile = /Users/austin/.gitignore_global
+[user]
+	name = Austin Miller
+	email = 30607075+apmwebdev@users.noreply.github.com
+[alias]
+	pushu = push -u origin HEAD
+	ac = !git add . && git commit
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[url "git@github.com:"]
+	insteadOf = https://github.com/
